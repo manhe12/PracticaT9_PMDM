@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MisPedidosPendientes</string>
+    <string name="listaTiendas">Lista Tiendas</string>
+    <string name="nuevoPedido">Nuevo Pedido</string>
+    <string name="nuevaTienda">Nueva Tienda</string>
+    <string name="recibido">RECIBIDO</string>
+    <string name="fecha_de_entrega">Fecha de entrega</string>
+    <string name="importe">Importe</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="editar_tienda">Editar Tienda</string>
+    <string name="nombre_de_la_tienda">Nombre de la tienda</string>
+    <string name="nueva_tienda">Nueva Tienda</string>
+    <string name="nombre_de_la_tienda_hint">Nombre de la Tienda...</string>
+    <string name="nuevo_pedido">Nuevo Pedido</string>
+    <string name="fecha_estimada_de_entrega">Fecha Estimada de Entrega</string>
+    <string name="descripcion">Descripción</string>
+    <string name="importe_hint">Importe</string>
+    <string name="descripcion_del_pedido">Descripción del Pedido</string>
+    <string name="importe_10_00">Importe: 10.00 €</string>
+    <string name="fecha_2023_12_28">Fecha: 2023-12-28</string>
+</resources>
